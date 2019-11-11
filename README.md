@@ -23,4 +23,3 @@ Bosch OEM engine info      : CC3.6-FSI-EU4
 Looking for memory variables...
 found memory vars function @ offset: 0x46b58
 table has 2400 elements
-
