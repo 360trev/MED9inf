@@ -3,6 +3,8 @@ Very Basic information extraction from MED9 ROM files. Useful as a tutorial..
 
 Example of output...
 
+-------------------------------------------------------
+
 med9inf.exe vR36ECU-BWS-038906032-ORIGINAL-KTAG-READ.FLS
 MED9BasicInf v0.1 (c) 2019 by 360trev. << Freeware >>
 
