@@ -7,7 +7,7 @@ Example of output...
 med9inf.exe vR36ECU-BWS-038906032-ORIGINAL-KTAG-READ.FLS
 MED9BasicInf v0.1 (c) 2019 by 360trev. << Freeware >>
 
-├╛ Opening 'c:\Users\hp\Downloads\R36ECU-BWS-038906032-ORIGINAL-KTAG-READ.FLS' file
+├╛ Opening 'R36ECU-BWS-038906032-ORIGINAL-KTAG-READ.FLS' file
 Succeded loading file.
 
 Searching for MED 9 ECUID signature function...
